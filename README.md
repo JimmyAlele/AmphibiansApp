@@ -20,6 +20,4 @@ Concepts applied
 
 Pictures of the final app
 -------------------------
-
-![img.png](img.png)
-
+<img src = "app/src/main/res/drawable/amphibian_screenshot.png" width = "30%">
